@@ -1,3 +1,11 @@
+/***
+* Adrian Olmos
+* amolmos
+* 2024 Winter CSE101 PA1
+* List.h
+* Contains function prototypes and type definitions for the List ADT used by the Lex program.
+***/
+
 #ifndef LIST_H_INCLUDE_
 #define LIST_H_INCLUDE_
 #include<stdbool.h>
