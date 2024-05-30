@@ -1,8 +1,8 @@
 # Programming Assignment 4 (pa4)
 
-### Name: Arthur Wei
+### Name: Adrian Olmos
 
-### CruzID: hwei20
+### CruzID: amolmos
 
 ### Assignment: pa4
 
