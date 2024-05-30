@@ -1,2 +1,2 @@
 # CSE101
-CSE 101 Programing Assignments
+CSE 101 Programming Assignments
