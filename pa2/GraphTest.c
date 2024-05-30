@@ -1,3 +1,10 @@
+/***
+* Adrian Olmos
+* amolmos
+* 2024 Winter CSE101 PA2
+* GraphTest.c
+* Tests the Graph ADT for correctness.
+***/
 #include <stdio.h>
 #include <stdlib.h>
 
