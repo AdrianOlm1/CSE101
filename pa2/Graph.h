@@ -1,3 +1,11 @@
+/***
+* Adrian Olmos
+* amolmos
+* 2024 Winter CSE101 PA2
+* Graph.h
+* Contains function prototypes and type definitions for the Graph ADT used by the FindPath program.
+***/
+
 #ifndef GRAPH_H_INCLUDE_
 #define GRAPH_H_INCLUDE_
 #include<stdbool.h>
