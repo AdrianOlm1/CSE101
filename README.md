@@ -1,4 +1,4 @@
-# cse101-pt
+# CSE101 | @UCSC
 
 CSE-101 Programming Assignment Repository
 
