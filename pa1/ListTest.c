@@ -1,3 +1,11 @@
+/***
+* Adrian Olmos
+* amolmos
+* 2024 Winter CSE101 PA1
+* ListTest.c
+* Contains tests for all ADT operations of the List.
+***/
+
 #include<stdio.h>
 
 #include "List.h"
