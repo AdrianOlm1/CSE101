@@ -1,3 +1,10 @@
+/***
+* Adrian Olmos
+* amolmos
+* 2024 Winter CSE101 PA2
+* FindPath.c
+* Reads in a graph and a list of pairs of vertices, and runs BFS on the graph to find the shortest path between each pair of vertices.
+***/
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
