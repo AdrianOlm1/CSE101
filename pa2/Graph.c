@@ -1,3 +1,11 @@
+/***
+* Adrian Olmos
+* amolmos
+* 2024 Winter CSE101 PA2
+* Graph.c
+* Implements a Graph ADT with operations to manipulate the graph.
+***/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
