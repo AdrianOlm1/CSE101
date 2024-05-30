@@ -1,3 +1,11 @@
+/***
+* Adrian Olmos
+* amolmos
+* 2024 Winter CSE101 PA2
+* List.c
+* Implements a doubly linked list ADT with operations to manipulate the list.
+***/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
