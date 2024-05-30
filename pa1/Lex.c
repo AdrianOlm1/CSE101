@@ -1,3 +1,11 @@
+/***
+* Adrian Olmos
+* amolmos
+* 2024 Winter CSE101 PA1
+* Lex.c
+* Reads lines from an input file, sorts them lexicographically using the List ADT, and writes the sorted lines to an output file.
+***/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
