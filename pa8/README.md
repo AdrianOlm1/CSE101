@@ -50,7 +50,3 @@ This programming assignment, pa8, focuses on implementing and testing a Red-Blac
 - The WordFrequency program showcases the practical use of the Dictionary ADT in processing and analyzing text data.
 - The Order program demonstrates how the Dictionary ADT can be used for data ordering and organization.
 - The DictionaryTest suite is crucial for verifying the correctness and reliability of the ADT implementation.
-
-## Contact
-
-For any queries or issues related to this assignment, please contact Arthur Wei at hwei20@ucsc.edu.
